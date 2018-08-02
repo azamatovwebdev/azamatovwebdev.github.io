@@ -43,10 +43,12 @@ h4{
 .menu-line{
     background: white;
     height: 82px;
+    margin:auto;
     text-align: center;
 }
 .container{
-    width: 1224px;
+    padding: 0px 109px;
+    width: 1440px;
     display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flex;
