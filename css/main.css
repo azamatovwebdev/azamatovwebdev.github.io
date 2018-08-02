@@ -316,18 +316,23 @@ span.line{
 }
 .advantages{
     background-color: #1a1a1a;
-    padding-top: 84px;
+    margin:auto;
+    width: 100%;
 }
 .advantages-content{
-    width: 1224px;
+    width: 1440px;
     margin:auto;
+    padding: 0px 108px;
     display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flex;
     display: -o-flex;
     display: flex;
     flex-direction: column;
-    align-items: flex-start
+    align-items: flex-start;
+    background-color: #1a1a1a;
+    z-index: -1;
+    padding-top: 84px;
 }
 .advantages-content h2{
     margin-bottom: 56px;
